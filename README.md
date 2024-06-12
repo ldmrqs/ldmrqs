@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @ldmrqs
-- 👀 I’m interested in coding, music and animals.
-- 🌱 I’m currently studying coding to become a full stack or front-end developer.
-- 💞️ I’m looking to collaborate on HTML, CSS, Java and Python.
-- 📫 You can check me out on insta: @lardormar or linkedin @ldmrqs
+- 👋 Hi, I’m Larissa, but I have some nicknames.
+- 👀 I’m interested in tech, music & everything else in between.
+- 🌱 I’m currently working as a Support Engineer and learning more about DevOps.
+- 💞️ I’m looking to collaborate on DevOps, Front-End.
 
 <!---
 ldmrqs/ldmrqs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
