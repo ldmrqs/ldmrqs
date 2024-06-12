@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Larissa, but I have some nicknames.
-- 👀 I’m interested in tech, music & everything else in between.
+- 👋 Hi, I’m Larissa, but I have some nicknames. I am 22y, Brazilian.
+- 👀 I play instruments with strings on it, I am very interested in tech and I love animals.
 - 🌱 I’m currently working as a Support Engineer and learning more about DevOps.
-- 💞️ I’m looking to collaborate on DevOps, Front-End.
+- 💞️ I’m looking to collaborate on DevOps, Front-End and keep learning as much as possible. Maybe making some friends on the way.
 
 <!---
 ldmrqs/ldmrqs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
