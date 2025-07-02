@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Larissa 👋</h1>
+<h1 align="center">Hello there, I'm Larissa 👋</h1>
 
 <p align="center">
 🎸 Musician • ☁️ Infra Engineer • 🧠 AI Explorer • 🎨 Front-End Tinkerer • 🐾 Animal Lover
@@ -8,13 +8,13 @@
 
 ## 👩‍💻 About Me
 
-- 🧭 I'm currently working as an Infrastructure Support Engineer
+- 🧭 I'm currently working as an Infrastructure Engineer
 - 🛠️ Learning and building in **DevOps, Cloud, and AI**
 - 🎨 Also passionate about **Front-End** — building interfaces that are fun, nostalgic, and a bit chaotic (on purpose)
 - 🌐 Exploring **Full Stack** development with HTML, CSS, JavaScript, Python and Java
-- 🎵 Music fuels my brain: I play guitar, ukulele, bass, and scream at my laptop when Terraform breaks
-- 🤝 I love helping others grow — mentoring, volunteering, and writing docs that don’t suck
-- 🌍 Based in Porto Alegre, Brazil (but dreaming globally)
+- 🎵 Music fuels my brain: I play guitar, ukulele & piano
+- 🤝 I love helping others grow — mentoring, volunteering, and writing docs
+- 🌍 Based in Porto Alegre, Brazil
 
 ---
 
@@ -38,7 +38,7 @@
 ## 🚀 Current Projects
 
 - 🎧 Building an **AI-powered Music Recommendation API** with AWS + Bedrock
-- 🛠️ Learning **Lambda, API Gateway, DynamoDB**, and refatorando tudo com **Terraform**
+- 🛠️ Learning **Lambda, API Gateway, DynamoDB**, and refactoring with **Terraform**
 - 💻 Exploring **Full Stack development** with a retro-themed project: an interactive Windows XP-style résumé
 - 🧠 Improving my **Prompt Engineering** skills with Cursor AI and custom agents
 
@@ -46,9 +46,7 @@
 
 ## 🌱 Side Quests
 
-- 🥊 Trying to get fit without rage quitting (gym 3x/week gang)
 - 🧠 Studying Italian & Spanish
-- 👀 Looking for cool open-source projects to contribute to
 - 😼 Surviving life with 2 cats and 5 dogs
 
 ---
