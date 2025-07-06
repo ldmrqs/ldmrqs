@@ -2,4 +2,4 @@
 
 **current projects:**
 
-- 🎸 AI + infra @ [musical recommendation](https://github.com/ldmrqs/youwill-like-this).
+- 🎸 AI + infra @ [you will like this](https://github.com/ldmrqs/youwill-like-this).
