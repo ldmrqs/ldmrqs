@@ -1,13 +1,5 @@
-<h1 align="center">hello there, I'm Larissa. welcome, fren. 👋</h1>
+**welcome fren, my name is larissa. 👋**
 
-## Current Projects
+**current projects:**
 
-- building an **AI-powered Music Recommendation API** with AWS + Bedrock.
-
----
-
-## you can find me here:
-
-- [LinkedIn](https://www.linkedin.com/in/ldmrqs/)
-- [ldmrqs.com](https://ldmrqs.com)
-- contact.ldmrqs.com
+- AI project @ [musical recommendation](https://github.com/ldmrqs/API-Recomendacao-Musical)
