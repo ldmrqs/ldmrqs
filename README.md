@@ -1,6 +1,6 @@
 **welcome fren, my name is larissa. 👋**
 
-I just want to make the internet fun again.
+I just want to make the **internet fun again.**
 
 **current projects:**
 
