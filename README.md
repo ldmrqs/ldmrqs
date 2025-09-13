@@ -1,4 +1,4 @@
-**welcome fren, my name is larissa. 👋**
+**so good to see you, fren. 👋**
 **i'm a devops + ai engineer @ thoughtworks.**
 **currently using a lot of python and learning about machine learning. but, i love java and front-end too.**
 
